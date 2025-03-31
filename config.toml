@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://nghialele-domain-parking.pages.dev"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
